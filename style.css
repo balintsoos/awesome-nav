@@ -1,0 +1,23 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+nav {
+	width: 100%;
+	height: 70px;
+	text-align: center;
+	background-color: #2B2E4A;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	display: inline-block;
+	padding: 10px;
+	color: #FFFFFF;
+	background-color: #E84545;
+}
+
